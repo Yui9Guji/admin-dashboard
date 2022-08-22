@@ -2,3 +2,13 @@ body {
     margin: 0;
     padding: 0;
 }
+
+.upper-icon, .trending-image {
+    height: 48px;
+    width: 48px;
+}
+
+.lower-icon {
+    height: 64px;
+    width: 64px;
+}
